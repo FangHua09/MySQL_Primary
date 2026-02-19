@@ -160,3 +160,4 @@ name,varchar(20),YES,"",,""
 age,int,YES,"",,""
 desc,varchar(20),NO,"",,""
 */
+

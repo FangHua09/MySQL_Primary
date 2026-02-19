@@ -3,6 +3,9 @@
   <component name="DataSourcePerFileMappings">
     <file url="file://$PROJECT_DIR$/01_DDL语句详解.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
     <file url="file://$PROJECT_DIR$/02_DML语句详解.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
+    <file url="file://$PROJECT_DIR$/03_约束详解.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
+    <file url="file://$PROJECT_DIR$/04_单表查询相关.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
     <file url="file://D:/BaiduNetdiskDownload/02_MySQL基础/5.随堂代码/01_DDL语句详解.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
+    <file url="file://D:/BaiduNetdiskDownload/03_MySQL进阶/4.代码/04_单表查询相关.sql" value="d781b575-8939-4ce1-b57e-09aa3e9455ef" />
   </component>
 </project>
