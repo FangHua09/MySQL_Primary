@@ -76,7 +76,7 @@ use day01;
 
 # 7. 查看某个指定数据库的数据库的码表.
 show create database day01; #CREATE DATABASE `day01` /*!40100 DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_0900_ai_ci */ /*!80016 DEFAULT ENCRYPTION='N' */
-show create database day02 #CREATE DATABASE `day02` /*!40100 DEFAULT CHARACTER SET gbk */ /*!80016 DEFAULT ENCRYPTION='N' */
+show create database day02; #CREATE DATABASE `day02` /*!40100 DEFAULT CHARACTER SET gbk */ /*!80016 DEFAULT ENCRYPTION='N' */
 
 
 # --------------------------------- 案例2: DDL语句(数据定义语言) 操作 数据表(Table) ---------------------------------
