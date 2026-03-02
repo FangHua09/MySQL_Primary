@@ -13,6 +13,9 @@
 
  Date: 27/04/2021 19:38:18
 */
+# 清空表
+truncate table categories;
+show tables;
 
 SET NAMES utf8mb4;
 SET FOREIGN_KEY_CHECKS = 0;
