@@ -4,6 +4,7 @@
     <data-source source="LOCAL" name="local_mysql" uuid="d781b575-8939-4ce1-b57e-09aa3e9455ef">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
+      <remarks>本地终端mysql</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
